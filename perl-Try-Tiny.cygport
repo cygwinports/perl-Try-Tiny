@@ -1,0 +1,10 @@
+CPAN_AUTHOR=doy
+inherit perl
+
+NAME="perl-Try-Tiny"
+VERSION=0.12
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Mimimal localized try/catch for Perl"
+DESCRIPTION="This module provides bare bones try/catch/finally statements that
+are designed to minimize common mistakes with eval blocks, and NOTHING else."
